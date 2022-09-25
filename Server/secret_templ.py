@@ -1,0 +1,8 @@
+
+#MySQL DB Access Informations
+MYSQL_HOST = '127.0.0.1'
+MYSQL_SCHEMA = 'SCHEMA_NAME'
+MYSQL_PORT = '3306'
+MYSQL_USER = 'MySqlUser'
+MYSQL_USER = 'MySqlPwd'
+
